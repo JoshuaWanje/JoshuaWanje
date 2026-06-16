@@ -9,7 +9,7 @@
 - Python, HTML/CSS, C++, Pytorch
 
 ## Current Projects
-- [Project name](link) 
+- INTRODUCTION(link) 
 
 ## How to Reach Me
 - Email: wanjejoshua51@gmail.com
