@@ -1,0 +1,19 @@
+## My learning goals
+### This Semester
+You are a **good** *person* indeed
+Check my [Github Profile](https://github.com/JoshuaWanje) to see my latest projects
+
+### 3 Things I Want to Learn
+- Pytorch
+- Advanced html & css
+- Python for Data Analysis
+
+### Steps to Make a Commit in Git
+1. Stage your changes using `git add`
+2. Save your changes with a descriptive message using `git commit -m "Your message"`
+3. Push your changes to your remote repository using `git push`
+
+| Tool | Purpose | Link |
+| :--- | :--- | :--- |
+| Git | Version Control | [Git SCM](https://git-scm.com/) |
+| Visual Studio Code | Code Editor | [VS Code](https://visualstudio.com) |
