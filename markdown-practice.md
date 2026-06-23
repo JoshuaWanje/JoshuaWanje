@@ -28,5 +28,5 @@ You are a **good** *person* indeed.
 ### Blockquotes
  " Do the best you can until you know better "
 ### Bonus-Put it all Together: About Me
- ## Hi there! I'm Joshua
+ ### Hi there! I'm Joshua
  I am currently expanding my skills in AI and Machine Learning. Setting clear milestones helps me stay focused and driven.
