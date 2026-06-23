@@ -17,3 +17,8 @@ You are a **good** *person* indeed.
 | :--- | :--- | :--- |
 | Git | Version Control | [Git SCM](https://git-scm.com/) |
 | Visual Studio Code | Code Editor | [VS Code](https://visualstudio.com) |
+
+### Task List
+- learn basic markdown syntax
+- learn how use different types of commands using git
+- know how to clone
