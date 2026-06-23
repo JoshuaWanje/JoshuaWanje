@@ -22,3 +22,7 @@ You are a **good** *person* indeed.
 - learn basic markdown syntax
 - learn how use different types of commands using git
 - know how to clone
+
+
+### Blockquotes
+ " Do the best you can until you know better "
