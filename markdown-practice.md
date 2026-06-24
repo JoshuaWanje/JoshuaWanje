@@ -2,7 +2,10 @@
 ### This Semester
 You are a **good** *person* indeed.
 
-### Check my [Github Profile](https://github.com/JoshuaWanje) to see my latest projects
+### Check
+- my [Github Profile](https://github.com/JoshuaWanje) to see my latest projects
+- [Website](https://www.ruhabenjamin.com)
+
 
 ### 3 Things I Want to Learn
 - Pytorch
